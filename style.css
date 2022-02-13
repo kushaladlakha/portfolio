@@ -237,7 +237,7 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 .card:hover {
-  box-shadow: 0 0 50px rgb(148, 146, 146);
+  box-shadow: 0 0 50px rgb(173, 173, 173);
   transition: 0.5s;
   -webkit-tap-highlight-color: transparent;
 }
