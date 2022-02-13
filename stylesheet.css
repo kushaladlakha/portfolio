@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 97vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container h1 {
+  color: black;
+  font-family: "Annie Use Your Telescope", cursive;
+  font-weight: 600;
+}
+img {
+  width: 200px;
+}
+@media (max-width: 400px) {
+  h1 {
+    font-size: 20px;
+  }
+}
