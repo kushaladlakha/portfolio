@@ -280,6 +280,9 @@ body {
 }
 
 @media (max-width: 730px) {
+  body {
+    font-weight: 400;
+  }
   .card {
     width: 230px;
     height: 230px;
